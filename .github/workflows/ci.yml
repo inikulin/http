@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - custom-code
 
 env:
   RUST_BACKTRACE: 1
